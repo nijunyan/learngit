@@ -1,2 +1,2 @@
-This is a read me file.
-Git is free
+Git is a dustributed version control system.
+Git is a free software distributed under the GPL.
